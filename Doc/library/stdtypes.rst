@@ -12,8 +12,8 @@ interpreter.
 
 .. index:: pair: built-in; types
 
-The principal built-in types are numerics, sequences, mappings, classes,
-instances and exceptions.
+The principal categories of types are numerics, sequences, mappings, classes,
+and exceptions.
 
 Some collection classes are mutable.  The methods that add, subtract, or
 rearrange their members in place, and don't return a specific item, never return
